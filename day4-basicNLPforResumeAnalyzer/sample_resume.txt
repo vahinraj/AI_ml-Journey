@@ -1,0 +1,8 @@
+John Doe
+Computer Science Student
+
+Skills:
+Python, Machine Learning, Data Analysis, Git, SQL, project management, swift
+
+Education:
+Bachelor of Technology in Computer Science
