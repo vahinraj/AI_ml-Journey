@@ -1,0 +1,8 @@
+John Doe
+Computer Science Student
+
+Skills:
+Python, ml, sql, git, natural language processing
+
+Education:
+Bachelor of Technology in Computer Science
