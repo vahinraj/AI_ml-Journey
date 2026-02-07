@@ -1,0 +1,8 @@
+We are looking for a Machine Learning Engineer.
+
+Requirements:
+- Strong knowledge of Python
+- Experience with Machine Learning and nlp
+- Familiarity with SQL databases
+- Understanding of Deep Learning concepts
+- Version control using Git

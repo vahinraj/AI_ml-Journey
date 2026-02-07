@@ -1,0 +1,8 @@
+Programming Languages: Python, JavaScript (ES6+), TypeScript, C, C++, SQL
+Frontend: React.js, Next.js, TailwindCSS, HTML, CSS
+Backend: Node.js, Express.js, Django, Flask
+Databases, Cloud & DevOps: MySQL, PostgreSQL, MongoDB, Supabase, AWS, Azure, Oracle, Git, GitHub,
+Vercel, Netlify, Docker
+CS Fundamentals: Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networking,
+MVC Architecture, RESTful APIs, Unit & Integration Testing
+AI/ML: Scikit-learn, Pandas, NumPy, Semantic Search, Data Cleaning, FAISS Vector Indexing, Plotly
